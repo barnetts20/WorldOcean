@@ -25,17 +25,17 @@ public:
 
     UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Ocean|Mesh",
         meta = (ClampMin = "3"))
-    int32 FaceResolution = 3;
+    int32 FaceResolution = 17;
 
     UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Ocean|LOD")
     int32 ChunkDepth = 2;
 
     // Must be >= ChunkDepth
     UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Ocean|LOD")
-    int32 MinDepth = 3;
+    int32 MinDepth = 2;
 
     UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Ocean|LOD")
-    int32 MaxDepth = 10;
+    int32 MaxDepth = 6;
 
     UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Ocean|LOD",
         meta = (ClampMin = "0.001"))
