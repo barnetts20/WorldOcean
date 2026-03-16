@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.WorldOcean.cpp.obj": [
+			"FOceanSharedStructs.gen.cpp.obj",
+			"OceanSphereActor.gen.cpp.obj",
+			"ScreenSpaceProjectedOceanActor.gen.cpp.obj",
+			"WorldOcean.init.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"FOceanQuadTreeNode.cpp.obj",
+			"FOceanSharedStructs.cpp.obj",
+			"OceanSphereActor.cpp.obj",
+			"ScreenSpaceProjectedOceanActor.cpp.obj",
+			"WorldOcean.cpp.obj"
+		]
+	}
+}

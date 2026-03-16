@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\projects\\vxl\\plugins\\worldocean\\source\\worldocean\\private\\worldocean.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\vxl\\intermediate\\build\\win64\\x64\\vxleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\projects\\vxl\\plugins\\worldocean\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\worldocean\\definitions.worldocean.h",
+            "d:\\projects\\vxl\\plugins\\worldocean\\source\\worldocean\\public\\worldocean.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
